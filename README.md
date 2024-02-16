@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kumara Kiran Raj
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning machine learning.
+- 👀 I’m interested in embedded software development.
+- 🌱 I’m currently learning advanced embbeded concepts.
 - 📫 Reach me @ +919591677066
 
 <!---
